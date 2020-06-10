@@ -8,6 +8,7 @@
 
 /* Margin -- Start */
 
+/* Space Left */
 .space-left-5 {
     margin-left: 5px;
 }
@@ -58,6 +59,167 @@
 
 .space-left-100 {
     margin-left: 100px;
+}
+
+/* Space Right */
+.space-right-5 {
+    margin-right: 5px;
+}
+
+.space-right-10 {
+    margin-right: 10px;
+}
+
+.space-right-15 {
+    margin-right: 15px;
+}
+
+.space-right-20 {
+    margin-right: 20px;
+}
+
+.space-right-25 {
+    margin-right: 25px;
+}
+
+.space-right-30 {
+    margin-right: 30px;
+}
+
+.space-right-40 {
+    margin-right: 40px;
+}
+
+.space-right-50 {
+    margin-right: 50px;
+}
+
+.space-right-60 {
+    margin-right: 60px;
+}
+
+.space-right-70 {
+    margin-right: 70px;
+}
+
+.space-right-80 {
+    margin-right: 80px;
+}
+
+.space-right-90 {
+    margin-right: 90px;
+}
+
+.space-right-100 {
+    margin-right: 100px;
+}
+
+/* Space Top */
+
+.space-top-5 {
+    margin-top: 5px;
+}
+
+.space-top-10 {
+    margin-top: 10px;
+}
+
+.space-top-15 {
+    margin-top: 15px;
+}
+
+.space-top-20 {
+    margin-top: 20px;
+}
+
+.space-top-25 {
+    margin-top: 25px;
+}
+
+.space-top-30 {
+    margin-top: 30px;
+}
+
+.space-top-40 {
+    margin-top: 40px;
+}
+
+.space-top-50 {
+    margin-top: 50px;
+}
+
+.space-top-60 {
+    margin-top: 60px;
+}
+
+.space-top-70 {
+    margin-top: 70px;
+}
+
+.space-top-80 {
+    margin-top: 80px;
+}
+
+.space-top-90 {
+    margin-top: 90px;
+}
+
+.space-top-100 {
+    margin-top: 100px;
+}
+
+/* Space Bottom */
+
+.space-bottom-5 {
+    margin-bottom: 5px;
+}
+
+.space-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.space-bottom-15 {
+    margin-bottom: 15px;
+}
+
+.space-bottom-20 {
+    margin-bottom: 20px;
+}
+
+.space-bottom-25 {
+    margin-bottom: 25px;
+}
+
+.space-bottom-30 {
+    margin-bottom: 30px;
+}
+
+.space-bottom-40 {
+    margin-bottom: 40px;
+}
+
+.space-bottom-50 {
+    margin-bottom: 50px;
+}
+
+.space-bottom-60 {
+    margin-bottom: 60px;
+}
+
+.space-bottom-70 {
+    margin-bottom: 70px;
+}
+
+.space-bottom-80 {
+    margin-bottom: 80px;
+}
+
+.space-bottom-90 {
+    margin-bottom: 90px;
+}
+
+.space-bottom-100 {
+    margin-bottom: 100px;
 }
 /* Margin -- End */
 
